@@ -15,5 +15,5 @@ Airfare Price Prediction (Transformer)
 
 Airfare Price Prediction (LSTM)
 
-Building Energy Management System (Transformer with Linear decoder)
+Building Energy Management System (Transformer with Linear decoder) - named as electransformer
 
