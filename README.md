@@ -1,5 +1,5 @@
 # DeepLearningProjects
-Collection of the final code used in deep learning projects and the remnants of trial-and-error code.
+A collection of the final code used in deep learning projects and the code utilized for model performance comparison.
 
 Some of them can also be found in my organizations (Televet, Energiology).
 
