@@ -1,7 +1,7 @@
 # DeepLearningProjects
 A collection of the final code used in deep learning projects and the code utilized for model performance comparison.
 
-Some of them can also be found in my organizations (Televet, Energiology).
+Some of them can also be found in my organizations (2023-2 Televet, Energiology).
 
 List: 
 
@@ -15,5 +15,7 @@ Airfare Price Prediction (Transformer)
 
 Airfare Price Prediction (LSTM)
 
-Building Energy Management System (Transformer with Linear decoder) - named as electransformer
+Airfare Price Prediction (Attention-based LSTM)
 
+Building Energy Management System (Transformer with Linear decoder)
+  - electransformer_finetune is the code for this.
