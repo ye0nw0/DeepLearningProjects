@@ -17,5 +17,4 @@ Airfare Price Prediction (LSTM)
 
 Airfare Price Prediction (Attention-based LSTM)
 
-Building Energy Management System (Transformer with Linear decoder)
-  - electransformer_finetune is the code for this.
+Building Energy Management System (Transformer)
