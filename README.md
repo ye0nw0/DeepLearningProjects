@@ -1,7 +1,7 @@
 # DeepLearningProjects
 A collection of the final code used in deep learning projects and the code utilized for model performance comparison.
 
-Some of them can also be found in my organizations (2023-2 Televet, Energiology).
+Some of them are from projects I worked on within the organizations I participated in. (2023-2 Televet, Energiology)
 
 List: 
 
